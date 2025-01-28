@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Blender & Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [sciverag.github.io](sciverag.github.io)
+- 👨‍💻 All of my projects are available at [sciverag.github.io](https://sciverag.github.io)
 
 - 📫 How to reach me **samuelciga2004@gmail.com**
 
