@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **samuelciga2004@gmail.com**
 
-- ⚡ Fun fact **Bootstrap is my nemesis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
